@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="alexwerner9@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/alexander-a-werner/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+My name is Alexander Werner and I am a software engineer at TDS Telecom specializing in API design and backend engineering as well as a student at New York University. The repositories on my Github mainly focus on side projects that let me learn about technologies that I might not learn at work or in school. I am passionate about the affect that ease of use has on engagement, efficient API design and embedded programming. I am the creator of the communal playlist maker [ThePlaylistMaker.com](https://theplaylistmaker.com/), and believe that I have implemented most of my knowledge (other than embedded programming) into this website.
+
 <!--
 **alexwerner9/alexwerner9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
